@@ -15,10 +15,4 @@ Stations (AWS) to a final dashboard,\
 Contribution to research: the software simplifies the quality control,
 and prepares them for publication
 
-Contributors:
-
-- David Walter (https://orcid.org/0000-0001-6807-5007)
-- Peter Walter (https://orcid.org/0000-0001-8745-6593), Director,
-  Chairman
-
 Software license: MIT
